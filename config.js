@@ -38,7 +38,7 @@ const config = {
 	 * @type {!string}
 	 * Telegram Bot token obtained from https://t.me/BotFather.
 	 */
-	token: '',
+	token: '1016031429:AAGZwXtu4Glf0HqLoOj0xoiGtSaOgEzPj7Q',
 
 
 	chats: {
